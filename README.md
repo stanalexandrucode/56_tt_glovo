@@ -23,5 +23,5 @@ Documentation of the API using Swagger v3 (OpenApi)
 
 Don't stay hungry and visit us!
 
-## For the [front-end](https://github.com/Skipp-it/Glovo-FrontEnd) of the app.
+## For the [front-end](https://github.com/Skipp-it/Glovo-FrontEnd/tree/development/src) of the app.
 
